@@ -13,3 +13,5 @@
  ### aws dynamodb describe-table --table-name **list your table name**
  ## scanning dynamodb table 
  ### aws dynamodb scan --table-name **list your table name**
+ ## batch write dynamodb table
+ ### aws dynamodb batch-write-item --request-items file://**list your filename**
