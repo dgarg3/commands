@@ -11,3 +11,5 @@
  ### aws dynamodb describe-backup --backup-arn **list your backup arn**
   ## describe dynamodb table 
  ### aws dynamodb describe-table --table-name **list your table name**
+ ## scanning dynamodb table 
+ ### aws dynamodb scan --table-name **list your table name**
