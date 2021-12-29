@@ -15,3 +15,5 @@
  ### aws dynamodb scan --table-name **list your table name**
  ## batch write dynamodb table
  ### aws dynamodb batch-write-item --request-items file://**list your filename**
+ ## delete dynamodb table
+ ### aws dynamodb delete-table --table-name **list your table name**
