@@ -8,4 +8,6 @@
 ## backup dynamodb table 
 ### aws dynamodb create-backup --table-name **list your table name** --backup-name **list your backup name**
  ## describe dynamodb table backup 
- aws dynamodb describe-backup --backup-arn **list your backup arn**
+ ### aws dynamodb describe-backup --backup-arn **list your backup arn**
+  ## describe dynamodb table 
+ ### aws dynamodb describe-table --table-name **list your table name**
